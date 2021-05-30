@@ -1,3 +1,4 @@
+# simple tip for a set amount of tax and tip #
 x = input('How much was the meal? ')
 cost_of_meal = float(x)
 total_meal_with_tax = cost_of_meal + (cost_of_meal*tax)
