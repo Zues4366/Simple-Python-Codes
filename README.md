@@ -1,1 +1,2 @@
-# Simple-Python-Game-Codes
+# Simple-Python-Game-Codes#
+## A list of simple games using python ##
