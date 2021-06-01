@@ -46,6 +46,4 @@ if start == 'yes':
         print(player_choice(choice))
     else:
         print('Not a Choice...')
-again = input('Would you like to play again? yes or no: ')
-if again == 'no':
-    play = False
+
